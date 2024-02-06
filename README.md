@@ -12,6 +12,14 @@ cd Socigos
 
 bash install.sh
 
+===============
+
+You Need Instagram Account for Login to this Tools
+
+for Account Target is Provate, you must Confrimed followed of target.
+
+===============
+
 Enjoy your life
 
 Example Video on my Facebook.
