@@ -7,7 +7,9 @@ Socigos is Socmint Instagram Osint. This tools is for Investigate for Spying the
 INSTALL ::
 
 git clone https://github.com/Cobra10322/Socigos.git
+
 cd Socigos
+
 bash install.sh
 
 Enjoy your life
