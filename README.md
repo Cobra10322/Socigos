@@ -14,7 +14,7 @@ bash install.sh
 
 ===============
 
-You Need Your Instagram Account for Login to this Tools
+You Need Your Instagram Account for Login to this Tools.
 
 for Account Target when Private, you must Confrimed followed of target.
 
